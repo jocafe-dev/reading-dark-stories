@@ -1,7 +1,5 @@
-# reading-dark-stories
-
 # Name
-## Reading Dark Stories
+Reading Dark Stories
 
 # Description
 This Project has a main goal, bring **emotions** and provide **different experiences** for the user through reading.
@@ -36,5 +34,6 @@ Any questions or suggestions, the best way to contact me is on
 [LikedIn](https://www.linkedin.com/in/jonatas-carvalho/) or on [Telegram](https://web.telegram.org/z/)
 
 **My cellphone number is:** *+55 16 99155-3924*
+
 **My e-mail address is:** *jocafe.dev@gmail.com*
 

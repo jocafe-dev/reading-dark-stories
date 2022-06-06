@@ -1,0 +1,76 @@
+@font-face {
+    font-family: "CustomGothicFont";
+    src: url("../deutsch_gothic/Deutsch.ttf");
+}
+
+.bg-darkness {
+    font-family: 'CustomGothicFont', Arial, sans-serif;
+    background-color: #AAAAAA;
+}
+
+.initial-dark-space {
+    padding-top: 2vh;
+}
+
+.column-centered {
+    background-color: #6C2626;
+    width: 90%;
+    margin: auto;
+    border-width: 1.2vh;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
+
+.witcher-title {
+    padding: 2vh;
+    color: #AAAAAA;
+    font-size: 4.4em;
+    text-align: center;
+}
+
+.suport-button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.demon-button {
+    width: 90%;
+    background-color: #AAAAAA;
+    font-family: 'CustomGothicFont', Arial, sans-serif;
+    font-size: 2.2em;
+    color: #6C2626;
+    height: 8vh;
+    border-radius: 2vh;
+    border-width: 1.2vh;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
+
+.demon-body {
+    padding: 2vh;
+    color: #AAAAAA;
+    font-size: 2.2em;
+}
+
+.final-dark-space {
+    height: 12vh;
+}
+
+.demon-foot {
+    padding-top: 2vh;
+    text-align: center;
+    color: #666666;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 6vh;
+    font-size: 1.2em;
+    background-color: #6C2626;
+    border-width: 1.2vh;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
